@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gsdtut/static/css/main.fde51515.chunk.css",
+    "main.js": "/gsdtut/static/js/main.0f8e7cc9.chunk.js",
+    "main.js.map": "/gsdtut/static/js/main.0f8e7cc9.chunk.js.map",
+    "runtime-main.js": "/gsdtut/static/js/runtime-main.9a12eb7a.js",
+    "runtime-main.js.map": "/gsdtut/static/js/runtime-main.9a12eb7a.js.map",
+    "static/js/2.940f58dc.chunk.js": "/gsdtut/static/js/2.940f58dc.chunk.js",
+    "static/js/2.940f58dc.chunk.js.map": "/gsdtut/static/js/2.940f58dc.chunk.js.map",
+    "index.html": "/gsdtut/index.html",
+    "precache-manifest.b3cff5b0f4b0e068087d0678d2734c2c.js": "/gsdtut/precache-manifest.b3cff5b0f4b0e068087d0678d2734c2c.js",
+    "service-worker.js": "/gsdtut/service-worker.js",
+    "static/css/main.fde51515.chunk.css.map": "/gsdtut/static/css/main.fde51515.chunk.css.map",
+    "static/js/2.940f58dc.chunk.js.LICENSE.txt": "/gsdtut/static/js/2.940f58dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a12eb7a.js",
+    "static/js/2.940f58dc.chunk.js",
+    "static/css/main.fde51515.chunk.css",
+    "static/js/main.0f8e7cc9.chunk.js"
+  ]
+}
