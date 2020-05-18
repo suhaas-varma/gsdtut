@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gsdtut/static/css/main.fde51515.chunk.css",
-    "main.js": "/gsdtut/static/js/main.805aea16.chunk.js",
-    "main.js.map": "/gsdtut/static/js/main.805aea16.chunk.js.map",
+    "main.js": "/gsdtut/static/js/main.e28aa092.chunk.js",
+    "main.js.map": "/gsdtut/static/js/main.e28aa092.chunk.js.map",
     "runtime-main.js": "/gsdtut/static/js/runtime-main.9a12eb7a.js",
     "runtime-main.js.map": "/gsdtut/static/js/runtime-main.9a12eb7a.js.map",
     "static/js/2.940f58dc.chunk.js": "/gsdtut/static/js/2.940f58dc.chunk.js",
     "static/js/2.940f58dc.chunk.js.map": "/gsdtut/static/js/2.940f58dc.chunk.js.map",
     "index.html": "/gsdtut/index.html",
-    "precache-manifest.af134213a9e2fb48f62c903df721d6ae.js": "/gsdtut/precache-manifest.af134213a9e2fb48f62c903df721d6ae.js",
+    "precache-manifest.516a455b9e77acaf3ec9a784fbd78735.js": "/gsdtut/precache-manifest.516a455b9e77acaf3ec9a784fbd78735.js",
     "service-worker.js": "/gsdtut/service-worker.js",
     "static/css/main.fde51515.chunk.css.map": "/gsdtut/static/css/main.fde51515.chunk.css.map",
     "static/js/2.940f58dc.chunk.js.LICENSE.txt": "/gsdtut/static/js/2.940f58dc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a12eb7a.js",
     "static/js/2.940f58dc.chunk.js",
     "static/css/main.fde51515.chunk.css",
-    "static/js/main.805aea16.chunk.js"
+    "static/js/main.e28aa092.chunk.js"
   ]
 }
